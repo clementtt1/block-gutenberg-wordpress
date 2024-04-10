@@ -1,6 +1,7 @@
 jQuery( document ).ready(function($) {
     valeur = php_vars.valeur;
 });
+
 wp.blocks.registerBlockType('gutenberg/custom-block', {
     title: 'Custom block Gutenberg',
     icon: 'welcome-write-blog',
